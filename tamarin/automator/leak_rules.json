@@ -1,0 +1,13 @@
+{
+  "AIP": "rule Enable_Leak_AIP: []--[]->[Leak_AIP_Allowed()]",
+  "ExpDate": "rule Enable_Leak_ExpDate: []--[]->[Leak_ExpDate_Allowed()]",
+  "CVM": "rule Enable_Leak_CVM: []--[]->[Leak_CVM_Allowed()]",
+  "CardPublicKey": "rule Enable_Leak_CardPublicKey: []--[]->[Leak_CardPublicKey_Allowed()]",
+  "Sig": "rule Enable_Leak_Sig: []--[]->[Leak_Sig_Allowed()]",
+  "SessionKey": "rule Enable_Leak_SessionKey: []--[]->[Leak_SessionKey_Allowed()]",
+  "CardPrivateKey": "rule Enable_Leak_CardPrivateKey: []--[]->[Leak_CardPrivateKey_Allowed()]",
+  "ATC": "rule Enable_Leak_ATC: []--[]->[Leak_ATC_Allowed()]",
+  "CardMasterKey": "rule Enable_Leak_CardMasterKey: []--[]->[Leak_CardMasterKey_Allowed()]",
+  "IAD": "rule Enable_Leak_IAD: []--[]->[Leak_IAD_Allowed()]",
+  "Token": "rule Enable_Leak_Token: []--[]->[Leak_Token_Allowed()]"
+}

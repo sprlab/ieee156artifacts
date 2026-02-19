@@ -1,0 +1,13 @@
+{
+  "ATC": "Atc",
+  "AIP": "Aip",
+  "CardMasterKey": "Cmk",
+  "CardPrivateKey": "Cprivk",
+  "CardPublicKey": "Cpupk",
+  "CVM": "Cvm",
+  "ExpDate": "Exp",
+  "IAD": "Iad",
+  "SessionKey": "Sk",
+  "Sig": "Sig",
+  "Token": "Token"
+}
