@@ -1,8 +1,20 @@
 ### Files and Folders
 
 - `main.spthy`: The primary Tamarin model file. It imports `.spthy` files from `leaks` folder. 
-- `automator`: This folder contains the code that runs all variants as necessary.
 - `leaks`: This folder contains all the `.spthy` files that contains rules to leak specific data elements. We included 3 min-cut sets as examples.
+- `automator`: This folder contains the code that runs all variants as necessary.
+- `main.py`: main file for automator
+
+### Running automator
+```bash
+python3 main.py [lemma name]
+```
+
+Example:
+```bash
+python3 main.py TestCardCloningResistance
+```
+
 
 ### Running Tamarin
 
