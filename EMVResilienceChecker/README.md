@@ -27,3 +27,7 @@ TEE - This check uses `has_TEE.jar` under `./dependencies`.
 DroidBot - This is included under `./dependencies/droidbot/`. If this version does not work, please try cloning from the original [repo](https://github.com/honeynet/droidbot).
 
 [JEB](https://www.pnfsoftware.com/jeb/#android) - This is a commercial decompiler that you must purchase to use, so a copy is not included. Check `constants.py` for path settings.
+
+### Disclaimer
+
+EMVResilienceChecker is a research prototype distributed under the MIT License. It is provided “as is” without warranty of any kind. The authors and contributors do not support, endorse, or accept any responsibility for malicious, unlawful, or otherwise improper use of this software.
